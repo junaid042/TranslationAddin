@@ -8,7 +8,7 @@ Email Translation Add-in is a powerful Outlook Add-in that enables users to tran
 ## 🔗 Live Demo & Services
 
 🌐 Website: https://addinexpert.com  
-💼 Hire Office Add-in Developer: https://addinexpert.com  
+💼 Hire Office Add-in Developer: https://addinexpert.com/contact-us  
 
 ---
 
